@@ -6,7 +6,6 @@
 *.swift linguist-language=Swift
 *.js linguist-language=JavaScript
 
-*.c linguist-language=Other
 *.h linguist-language=Other
 *.cs linguist-language=Other
 *.zig linguist-language=Other
